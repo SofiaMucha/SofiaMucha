@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Sofía Mucha 👋:notes:
+ 
+ ![](https://c.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif)
 
-<!--
-**SofiaMucha/SofiaMucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudio Ciencia de la Computación en UTEC. Tengo :one::seven: años.
 
-Here are some ideas to get you started:
+**Un poco más sobre mí**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- :violin: Me gusta tocar violín.
+- :musical_score: Me encanta escuchar música. 
+- 💬 Me gusta aprender nuevos idiomas.
+- :cake: Me encantan los postres
+
+![](https://i.pinimg.com/originals/f1/1c/37/f11c379eb631092b27f02dc1b32357a2.gif)
+
+Mi anime favorito es *JoJo's Bizarre Adventure*
