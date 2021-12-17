@@ -7,7 +7,7 @@ Estudio Ciencia de la Computación en UTEC. Tengo :one::seven: años.
 **Un poco más sobre mí**
 
 
-- :violin: :angry: Me gusta tocar violín.
+- :violin:  Me gusta tocar violín.
 - :musical_score: Me encanta escuchar música. 
 - 💬 Me gusta aprender nuevos idiomas.
 - :cake: Me encantan los postres
@@ -15,7 +15,7 @@ Estudio Ciencia de la Computación en UTEC. Tengo :one::seven: años.
 ![](https://i.pinimg.com/originals/f1/1c/37/f11c379eb631092b27f02dc1b32357a2.gif)
 
 Mi anime favorito es *JoJo's Bizarre Adventure*
-hola
+
 
 
 
